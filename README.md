@@ -16,10 +16,10 @@ I’m driven by curiosity, discipline, and the desire to create impactful softwa
 ---
 
 ### 🛠️ Tech Stack & Tools
-**Frontend:** React.js, Redux, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap  
+**Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap  
 **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT / OAuth)  
 **Database:** MongoDB, Mongoose, Firebase (basic)  
-**Tools & DevOps:** Git, GitHub, VS Code, Postman, npm, Vercel, Render, Figma, Netlify  
+**Tools & DevOps:** Git, GitHub, VS Code, Postman, npm, Render  
 
 ---
 
